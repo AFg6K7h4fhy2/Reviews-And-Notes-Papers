@@ -2,7 +2,9 @@
 
 Proposed questions:
 
-* How might we think about this in relation to: (a) parameteric characterization of unknown functional forms (e.g. "let quarantine strength be a sigmoid") and (b) more traditional "non-parametric" approaches?
+* How might we think about this in relation to:
+  * (a) parameteric characterization of unknown functional forms (e.g. "let quarantine strength be a sigmoid")
+  * (b) more traditional "non-parametric" approaches?
 * How can we (quantitatively, qualitatively) assess the value-added or not of a neural network approach relative to those other approaches?
 
 From MathQR:
