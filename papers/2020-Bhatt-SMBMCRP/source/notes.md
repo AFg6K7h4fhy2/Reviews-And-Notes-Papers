@@ -1,4 +1,3 @@
-# Semi-Mechanistic Bayesian Modeling Of COVID-19 With Renewal Processes
 
 <!--
 Define terms.
@@ -6,10 +5,32 @@ Quotes.
 Questions you have.
 Comments you have.
 Research ideas / questions.
-Examining sources.-->
+Examining sources.
 
 
-## Abstract & Conclusion
+
+
+Abstract,Conclusion
+Claims
+Terms
+Red-Teaming AMAP
+  Assuming All Claims Are Wrong
+  What would it look like if This Other Thing?
+  How does this matter more broadly?
+Quotes
+Resources Relevant
+
+Comments To The Authors
+Extensions Of The Equations
+Future Work Potential
+Readability
+
+Possible Posts To Write From This
+  Last Recorded:
+-->
+
+
+# Abstract & Conclusion
 
 Claim, in one sentence:
 
@@ -39,14 +60,11 @@ The conclusion:
 * Color code and label equations to make them real
 
 
-
 ## Test Questions
-
-
 
 ## Appendix
 
-### Citation
+### Citations
 
 ```
 @article{bhatt2023semi,
